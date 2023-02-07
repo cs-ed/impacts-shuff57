@@ -12,6 +12,8 @@ Describe the learning objectives for the class that relate to social impacts. Co
 
 Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
 
+[Lesson Video: One Piece ep.249](https://www.crunchyroll.com/watch/GRX0MNV36/spandams-scheme-the-day-the-sea-train-shook) 
+
 ### Assessment
 
 Describe how you plan to assess the learning objectives described above.
