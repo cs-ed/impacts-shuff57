@@ -17,7 +17,7 @@ To stay on brand with  the PBL pedagogical approach, a colleague and I have come
   <li>Finally, ask students to address this final, synthesis question, “Are there any computing technology we, as a society, would be better off without?”</li>
 </ol>
 
-As a final note, instructors should keep in mind that this lesson series will be informed by [Webb’s Depth of Knowledge](https://www.synergiseducation.com/blooms-taxonomy-and-webbs-depth-of-knowledge/#:~:text=Webb%27s%20Depth%20of%20Knowledge%20(DoK,level%20of%20complexity%20in%20thinking.) (DoK) and is meant to move in order from DoK 1 to DoK 4. That is to say, move from less complex ideas and rigor to more complex and synthesis of ideas. Be aware that the following plan (and associated parts) would benefit greatly from individual lesson plans detailing granular teacher moves intended to help students wade through these intricate ideas.
+As a final note, instructors should keep in mind that this lesson series will be informed by [Webb’s Depth of Knowledge](https://static.pdesas.org/content/documents/m1-slide_19_dok_wheel_slide.pdf) (DoK) and is meant to move in order from DoK 1 to DoK 4. That is to say, move from less complex ideas and rigor to more complex and synthesis of ideas. Be aware that the following plan (and associated parts) would benefit greatly from individual lesson plans detailing granular teacher moves intended to help students wade through these intricate ideas.
 
  See also [Bloom’s Taxonomy](https://bloomstaxonomy.net/)
 
@@ -29,62 +29,91 @@ As a final note, instructors should keep in mind that this lesson series will be
 
 #### Learning Objectives
 
-Students are able to articulate and argue which person they support from the video. The overall thought is to first have students analyze others behaviors before turning the analysis to themselves and society as a whole (Parts 2 - 4) 
+<ul>
+Students are able to articulate and argue which person they support from the video. The overall thought is to first have students analyze others behaviors before     turning the analysis to themselves and society as a whole (Parts 2 - 4) 
+</ul>
 
 #### Learning Activities
 
-Watch video ([Lesson Video: One Piece ep.249](https://www.crunchyroll.com/watch/GRX0MNV36/spandams-scheme-the-day-the-sea-train-shook))
-<li>Start at 5:50 and watch until 22:05</li>
+   Watch video ([Lesson Video: One Piece ep.249](https://www.crunchyroll.com/watch/GRX0MNV36/spandams-scheme-the-day-the-sea-train-shook))
+<ul>  
+  <ul>
+    <li>Start at 5:50 and watch until 22:05</li>
+  </ul>
+</ul>
+
 
 #### Assessment
 
+<ul>
 Students will engage in small group discussion, class discussion, and perform a quick write about their observations and analysis. Quick write will be collected and read for “honest effort” to grapple and argue with the question(s) presented.
-
+</ul>
+  
 ### Part 2
 
 #### Learning Objectives
 
+<ul>
 Students will be able to create a list of technology that impacts their lives and can argue if the impact is positive, negative, or neutral. 
+</ul>
 
 #### Learning Activities
 
+<ul>
 Students will be asked to create a technology log (much like a food nutrition log) to log which apps/technologies they use and for how long.
-
+</ul>
+  
 #### Assessment
 
+<ul>
 Students will be asked to reflect on whether they think their own technological habits need adjustment, if so then will be asked to create a “Diet Plan” to help themselves cut back. If they deem they do not have an issue with technology in their lives, they will need to argue how their relationship with technology is healthy
-
+</ul>
+  
 ### Part 3
 
 #### Learning Objectives
 
+<ul>
 Students will be able to look at societally accepted apps/technologies and decide if those apps/technologies have positive, negative, or neutral impact on society\.
-
+</ul>
+  
 #### Learning Activities
 
+<ul>
 Students will work in small groups to identify and list examples of computing technologies that have impacted society (on a larger scale), then investigate how those technologies have specifically impacted society. (Left vague on purpose, students must decide if the technologies have positive, negative, or neutral impact on society)
-
+</ul>
+  
 #### Assessment
 
+<ul>
 Students will be asked to create a poster describing the computing technology they chose and how the technology they chose impacted society.
-
+</ul>
+  
 ### Part 4
 
 #### Learning Objectives
 
+<ul>
 Given all of their prior work and evidence students will be asked to answer, “Are there any computing technology we, as a society, would be better off without?”
-
+</ul>
+  
 #### Learning Activities
 
+<ul>
 To assist students in coming to their conclusion instructor may want to provide additional prompts such as:
-<li>Do positive aspects outweigh negative aspects?</li>
-<li>Can we realistically control who or what is invented? Can we actually limit innovation?</li>
-<li>Are there certain technologies we would be better off without today?</li>
-
+  <ul>
+    <li>Do positive aspects outweigh negative aspects?</li>
+    <li>Can we realistically control who or what is invented? Can we actually limit innovation?</li>
+    <li>Are there certain technologies we would be better off without today?</li>
+  </ul>
+</ul>
+  
 #### Assessment
 
+<ul>
 Students will have answered the Objective question with a thorough, thoughtful, complete response.
-
+</ul>
+ 
 ### Outcomes
 
 The primary goal of this Impacts Plan is not to have a “right” or “correct” answer but to simply get students to think deeply about the technology they currently or may interact with in their lives. To this end, this plan was meant to help shift a students mindset from that of a consumer technology to that of a producer of technology. The focus is not specificity of technology, but of its broader impacts it has on our lives.
